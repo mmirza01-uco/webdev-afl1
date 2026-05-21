@@ -15,9 +15,6 @@ Tugas progress report pertama mata kuliah Web Development. Project Laravel yang
 mengimplementasikan struktur CRUD produk dengan **Controller**, **Routing**,
 **Blade Template**, **Blade Component**, dan **Bootstrap**.
 
-> Catatan: progress report ini belum melibatkan database. Data produk diisi secara
-> random di controller sebagai placeholder.
-
 ## Tech Stack
 
 - **Laravel** (PHP framework)
