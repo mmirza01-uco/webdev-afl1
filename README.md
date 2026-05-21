@@ -7,7 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Web Development — Progress Report 1
+# Web Development — AFL 1
+
+> Moch Mirza Ilham Tontowi | 0706012424026
 
 Tugas progress report pertama mata kuliah Web Development. Project Laravel yang
 mengimplementasikan struktur CRUD produk dengan **Controller**, **Routing**,
