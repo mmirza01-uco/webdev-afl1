@@ -24,8 +24,6 @@ mengimplementasikan struktur CRUD produk dengan **Controller**, **Routing**,
 
 ## Fitur yang Diimplementasikan
 
-Sesuai 14 poin tugas:
-
 1. Controller `ProductController` dengan 6 fungsi (`index`, `create`, `store`, `show`, `edit`, `update`)
 2. View dibuat menggunakan Blade template
 3. View memanfaatkan Blade component (`<x-template>`) sebagai layout
@@ -82,8 +80,8 @@ Sesuai 14 poin tugas:
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/USERNAME/NAMA-REPO.git
-   cd NAMA-REPO
+   git clone https://github.com/mmirza01-uco/webdev-afl1.git
+   cd webdev-afl1
    ```
 
 2. Install dependency PHP:
